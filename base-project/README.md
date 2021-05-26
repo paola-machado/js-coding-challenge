@@ -1,4 +1,4 @@
-# <strong>:sparkles: base-project :sparkles:</strong>
+# <strong>:sparkles: Base Project :sparkles:</strong>
 <h1 align="center">
     Image here!
 </h1>
